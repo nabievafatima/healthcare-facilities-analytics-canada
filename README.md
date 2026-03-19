@@ -117,7 +117,6 @@ Power BI dashboard (.pbix)
 dashboard screenshots
 project documentation
 📂 Files Included
-📂 Files Included
 capstone_project.ipynb — main analysis notebook
 healthcare_population.ipynb — population data preparation
 odhf_v1.csv — original healthcare dataset
@@ -133,6 +132,3 @@ While larger provinces have more healthcare facilities, smaller provinces often 
 The Facilities per 100,000 population metric highlights regional disparities and allows fair comparison.
 By integrating Python, Machine Learning, Power BI, and Generative AI, this project delivers a comprehensive and practical analysis of healthcare accessibility in Canada.
 
-Если хочешь последний шаг:
-🚀 я могу сделать тебе
-GitHub title + описание + LinkedIn пост (чтобы тебя заметили)
