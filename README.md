@@ -1,8 +1,12 @@
 📄 Healthcare Facilities Analytics Project (Canada)
+
 📊 Project Overview
+
 This project analyzes the distribution of healthcare facilities across Canada using Python, Machine Learning, Power BI, and Generative AI support tools.
 The main goal is to explore healthcare facility distribution geographically, identify patterns across provinces, and evaluate healthcare accessibility relative to population.
+
 🎯 Project Objectives
+
 The project was designed to:
 clean and prepare healthcare facility data
 analyze facility distribution across Canada
@@ -11,7 +15,9 @@ calculate healthcare accessibility metrics
 apply machine learning clustering
 build an interactive Power BI dashboard
 demonstrate the use of generative AI tools
+
 📁 Dataset
+
 The main dataset used is the Open Database of Healthcare Facilities (ODHF) for Canada.
 It includes:
 facility name
@@ -23,7 +29,9 @@ latitude
 longitude
 postal code
 Additionally, a population dataset by province was used to calculate accessibility metrics.
+
 🛠️ Tools and Technologies Used
+
 Python
 Pandas
 NumPy
@@ -103,20 +111,26 @@ explaining machine learning concepts
 assisting development in Visual Studio Code
 helping structure analysis and documentation
 AI was used as a support tool, while all analysis, validation, and interpretation were completed independently.
+
 📈 Key Insights
+
 Healthcare facilities are unevenly distributed across Canada
 Larger provinces (Ontario, Quebec) have more facilities overall
 Smaller provinces (e.g., Prince Edward Island) have better accessibility per capita
 Population-adjusted metrics reveal insights not visible in raw counts
 Machine learning clustering shows geographic grouping patterns
+
 📦 Project Outputs
+
 Python analysis notebook
 cleaned dataset
 merged dataset
 Power BI dashboard (.pbix)
 dashboard screenshots
 project documentation
+
 📂 Files Included
+
 capstone_project.ipynb — main analysis notebook
 healthcare_population.ipynb — population data preparation
 odhf_v1.csv — original healthcare dataset
@@ -126,7 +140,9 @@ merged_data.csv — merged dataset (facilities + population)
 Healthcare dashboard.pbix — Power BI dashboard
 dashboard.jpg — dashboard preview
 README.md — project documentation
+
 ✅ Conclusion
+
 This project demonstrates that combining healthcare data with population data provides deeper and more meaningful insights.
 While larger provinces have more healthcare facilities, smaller provinces often provide better access when adjusted for population.
 The Facilities per 100,000 population metric highlights regional disparities and allows fair comparison.
